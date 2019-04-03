@@ -18,7 +18,7 @@ var server=express();
 server.use(cors({
 	origin:["http://172.242.3.181:8080",
 	"http://localhost:8080",
-	"http://172.242.3.181:5050"],
+	"http://172.242.3.181:7777"],
 	credentials:true
   }));
 server.listen(5050);
