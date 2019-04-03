@@ -1,0 +1,23 @@
+{
+  "name": "mifeng",
+  "version": "1.0.0",
+  "description": "蜜蜂",
+  "main": "long.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node long.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qt7288/mifeng.git"
+  },
+  "keywords": [
+    "mifeng"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qt7288/mifeng/issues"
+  },
+  "homepage": "https://github.com/qt7288/mifeng#readme"
+}
